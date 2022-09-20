@@ -1,0 +1,22 @@
+{
+  "name": "angulartut1",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/paulsiskind/typeScriptDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulsiskind/typeScriptDemo/issues"
+  },
+  "homepage": "https://github.com/paulsiskind/typeScriptDemo#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
